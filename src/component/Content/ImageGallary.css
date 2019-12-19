@@ -1,0 +1,16 @@
+.ImageGallary {
+  margin: 0;
+  padding: 0;
+  height: 80%;
+  width: 85%;
+  background-color: greenyellow;
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+.Image {
+  height: 30%;
+  width: 30%;
+  margin: 10px;
+}

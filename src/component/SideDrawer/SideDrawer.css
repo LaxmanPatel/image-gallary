@@ -1,0 +1,21 @@
+.SideDrawer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 15%;
+  padding: 0;
+  margin-top: 100px;
+  z-index: 200;
+  background-color: pink;
+  display: block;
+  box-sizing: border-box;
+  float: left;
+  transition: 1s ease-out;
+}
+.open {
+  transform: translateX(0);
+}
+.close {
+  transform: translateX(-100%);
+}

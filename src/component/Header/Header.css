@@ -1,0 +1,14 @@
+.Header {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100px;
+  width: 100%;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(103, 103, 236);
+  display: block;
+  box-sizing: border-box;
+}

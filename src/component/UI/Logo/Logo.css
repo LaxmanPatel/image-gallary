@@ -1,0 +1,7 @@
+.Logo {
+  float: right;
+  border: 1px solid white;
+  background: orange;
+  border-radius: 5px;
+  display: inline-block;
+}
